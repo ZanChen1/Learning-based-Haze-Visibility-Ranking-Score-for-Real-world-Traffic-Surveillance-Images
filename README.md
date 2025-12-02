@@ -4,7 +4,7 @@ A novel framework for no-refrence haze visibility estimation
 ## Mian script and how to run
 This repository contains the official implementation of our paper "Learning-based Haze Visibility Ranking Score for Real-world Traffic Surveillance Images".
 The main entry point for the experiments is:
--'test.py'
+- `test.py`
 
 ## Python enviroonment
 - efficientnet_pytorch==0.7.1
